@@ -5,6 +5,8 @@
  *  
  *  A special one for the holidays. This will appear to spin
  *  the LEDs, mixing between red and green and creating a trailing effect
+ *  
+ *  Improves on the LED_Goggles_Spin sketch
  */
  
 #include <Adafruit_NeoPixel.h>
