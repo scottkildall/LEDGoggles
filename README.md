@@ -19,3 +19,5 @@ These Sketches offer some improvements and fun tinkering around.
 **LED_Goggles_Spin**: very simple red-and-blue spinny eyes
 
 **LED_Goggles_Xmas**: an improvement on Goggles_Spin, with Christmas colors and nice trailing effects.
+
+**LED_Goggles_Build**: slowly builds up LEDs
