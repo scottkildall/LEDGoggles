@@ -12,4 +12,6 @@ These Sketches offer some improvements and fun tinkering around.
 
 
 ### Sketches
+**Trinket_Blink**: Just like the standard blink code, which will blink the built-in LED. Try this first to make sure your Triinket is working
+
 **LED_Goggles_BrightRamp**: this sketch will choose a random color and ramp it up and then back down. Both eyes are mirrored.

@@ -1,5 +1,5 @@
 /*
- *  NeoPixel_Goggles_Fun
+ *  LED_Goggles_BrightRamp
  *  
  *  Example by Scott Kildall
  *  
