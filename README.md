@@ -21,3 +21,5 @@ These Sketches offer some improvements and fun tinkering around.
 **LED_Goggles_Xmas**: an improvement on Goggles_Spin, with Christmas colors and nice trailing effects.
 
 **LED_Goggles_Build**: slowly builds up LEDs
+
+**LED_Goggles_Reverse_Spin**: reverse spin pattern, built by Endri Deliu
